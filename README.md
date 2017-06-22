@@ -16,16 +16,17 @@ Vous devez donc créer le jeu qui permettra à Jean-Michel de triompher de ses e
 # Architecture
 
 #### Avant de commencé la partie, il faut :
-- initialiser le joueur
-- initialiser chaque ennemi
-- initialiser le monde
+- Initialiser le joueur
+- Initialiser chaque ennemi
+- Initialiser le monde
+- Initialiser le jeu
 
 #### Lorsque le jeu débute :
-- afficher "Ainsi débutent les aventures de `nom_du_joueur`"
+- Afficher "Thus begins the adventure of `player.name`"
 
 #### Lorsque le jeu est fini :
-- afficher "Game Over"
-- afficher "Vous avez gagné!" ou "Vous avez perdu!"
+- Afficher "Game Over"
+- Afficher "You win!" ou "You lose!"
 
 
 ## classe Character
